@@ -1,4 +1,2 @@
-node-opcua-sampleserver
-=======================
-
-A simple OPC-UA server based on node-opcua
+# InfluxOPCUAServer
+An OPC UA Server for Influx DB
